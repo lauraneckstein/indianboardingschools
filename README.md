@@ -1,2 +1,2 @@
-# Native Residential Schools and Murders
-Map of Native Residential Schools and Murders 
+# Boarding Schools and Murders
+Map of Boarding Schools and Murders 
